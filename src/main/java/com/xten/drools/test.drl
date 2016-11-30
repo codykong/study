@@ -1,0 +1,7 @@
+package com.xten.drools;
+dialect  "mvel"
+
+rule "test"
+    when
+    then
+end
